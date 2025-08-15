@@ -1,6 +1,6 @@
 # CODSOFT-1
 
- TASK-1 NUMBER GAME
+// TASK-1 NUMBER GAME
 
 <br>
 import java.util.Scanner;
